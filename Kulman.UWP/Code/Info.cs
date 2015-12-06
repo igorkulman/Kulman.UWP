@@ -4,6 +4,9 @@ using Windows.System.Profile;
 
 namespace Kulman.UWP.Code
 {
+    /// <summary>
+    /// Taken from https://www.suchan.cz/2015/08/uwp-quick-tip-getting-device-os-and-app-info/
+    /// </summary>
     public static class Info
     {
         public static string SystemFamily { get; }
