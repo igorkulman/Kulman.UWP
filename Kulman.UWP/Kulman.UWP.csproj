@@ -110,6 +110,10 @@
   <ItemGroup>
     <Compile Include="Attributes\PerRequestAttribute.cs" />
     <Compile Include="Attributes\SingletonAttribute.cs" />
+    <Compile Include="Code\DataProtectionExtensions.cs" />
+    <Compile Include="Code\DelegateCommand.cs" />
+    <Compile Include="Code\DialogResult.cs" />
+    <Compile Include="Code\Extensions.cs" />
     <Compile Include="Code\Info.cs" />
     <Compile Include="Code\StringIOExtensions.cs" />
     <Compile Include="Converters\Abstract\BaseConverter.cs" />
@@ -122,9 +126,11 @@
     <Compile Include="Converters\LowerCaseConverter.cs" />
     <Compile Include="Converters\ObjectToVisibilityConverter.cs" />
     <Compile Include="Converters\UpperCaseConverter.cs" />
+    <Compile Include="Interfaces\IDialogService.cs" />
     <Compile Include="Interfaces\ISettingsService.cs" />
     <Compile Include="Jetbrains.Annotations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\DialogService.cs" />
     <Compile Include="Services\LocalSettingsService.cs" />
     <EmbeddedResource Include="Properties\Kulman.UWP.rd.xml" />
   </ItemGroup>

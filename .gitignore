@@ -1,3 +1,4 @@
 /Kulman.UWP/bin
 /Kulman.UWP/obj
 /.vs/Kulman.UWP/v14/*.suo
+/Kulman.UWP/*.nupkg
