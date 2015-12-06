@@ -73,13 +73,5 @@ namespace Kulman.UWP.Code
                 }
             }
         }
-
-        public static DateTime UnixTimeStampToDateTime(int unixTimeStamp)
-        {
-            // Unix timestamp is seconds past epoch
-            var dtDateTime = new DateTime(1970, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Utc);
-            dtDateTime = dtDateTime.AddSeconds(unixTimeStamp).ToLocalTime();
-            return dtDateTime;
-        }
     }
 }

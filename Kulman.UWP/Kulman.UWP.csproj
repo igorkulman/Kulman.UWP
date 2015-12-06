@@ -111,6 +111,7 @@
     <Compile Include="Attributes\PerRequestAttribute.cs" />
     <Compile Include="Attributes\SingletonAttribute.cs" />
     <Compile Include="Code\DataProtectionExtensions.cs" />
+    <Compile Include="Code\DateTimeExtensions.cs" />
     <Compile Include="Code\DelegateCommand.cs" />
     <Compile Include="Code\DialogResult.cs" />
     <Compile Include="Code\Extensions.cs" />
