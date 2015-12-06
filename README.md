@@ -3,7 +3,7 @@ Kulman.UWP
 
 [![Build status](https://ci.appveyor.com/api/projects/status/hxaglfhf17d6yrab?svg=true)](https://ci.appveyor.com/project/igorkulman/kulman-wpa81)
 
-Collection of utilities and services for UWP apps. For Windows Phone 8.1 XAML, use [Kulman.WPA8](https://github.com/igorkulman/Kulman.WPA81).
+Collection of utilities and services for UWP apps. For Windows Phone 8.1 XAML, use [Kulman.WPA81](https://github.com/igorkulman/Kulman.WPA81).
 
 ## Installation
 
