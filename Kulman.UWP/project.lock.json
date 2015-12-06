@@ -1536,6 +1536,22 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-arm": {
@@ -3162,6 +3178,22 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-arm-aot": {
@@ -4759,6 +4791,22 @@
         },
         "runtime": {
           "runtimes/win8-aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
         }
       }
     },
@@ -6391,6 +6439,22 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-x64-aot": {
@@ -7988,6 +8052,22 @@
         },
         "runtime": {
           "runtimes/win8-aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
         }
       }
     },
@@ -9620,6 +9700,22 @@
         "runtime": {
           "lib/netcore50/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        }
       }
     },
     "UAP,Version=v10.0/win10-x86-aot": {
@@ -11217,6 +11313,22 @@
         },
         "runtime": {
           "runtimes/win8-aot/lib/netcore50/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "Kulman.UWP/1.0.0": {
+        "dependencies": {
+          "System.Diagnostics.Debug": "[4.0.10, )",
+          "System.Linq": "[4.0.0, )",
+          "System.Reflection": "[4.0.10, )",
+          "System.Runtime": "[4.0.20, )",
+          "System.Runtime.WindowsRuntime": "[4.0.10, )",
+          "System.Threading.Tasks": "[4.0.10, )"
+        },
+        "compile": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0/Kulman.UWP.dll": {}
         }
       }
     }
@@ -14583,6 +14695,18 @@
         "runtime.json",
         "runtimes/win8-aot/lib/netcore50/System.Xml.XmlSerializer.dll",
         "System.Xml.XmlSerializer.nuspec"
+      ]
+    },
+    "Kulman.UWP/1.0.0": {
+      "sha512": "yxWIEXyTmWreOgwUPe9t0+sN9Ipy9hYaISp7JMY+n/hWrlK9d+dRLCoAtTxRud1wf3LOznNx7bDfIvXKKLewjQ==",
+      "type": "Package",
+      "files": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "Kulman.UWP.nuspec",
+        "lib/uap10.0/Kulman.UWP.dll",
+        "lib/uap10.0/Kulman.UWP.pdb",
+        "package/services/metadata/core-properties/8ad4b102edaa4fc4ada3ca81f6127843.psmdcp"
       ]
     }
   },

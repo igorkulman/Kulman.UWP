@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Kulman.UWP</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>Igor Kulman</authors>
     <language>en-US</language>
     <projectUrl>https://github.com/igorkulman/Kulman.UWP</projectUrl>
@@ -15,6 +15,8 @@
       <group targetFramework="uap10.0">
         <dependency id="System.Collections" version="4.0.10" />
         <dependency id="System.Diagnostics.Debug" version="4.0.10" />
+        <dependency id="System.Globalization" version="4.0.10" />
+        <dependency id="System.Globalization.Calendars" version="4.0.0" />
         <dependency id="System.Linq" version="4.0.0" />
         <dependency id="System.ObjectModel" version="4.0.10" />
         <dependency id="System.Reflection" version="4.0.10" />
