@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Kulman.UWP</id>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <authors>Igor Kulman</authors>
     <language>en-US</language>
     <projectUrl>https://github.com/igorkulman/Kulman.UWP</projectUrl>
@@ -31,5 +31,6 @@
   <files>
     <file src="bin\Release\Kulman.UWP.dll" target="lib\uap10.0\Kulman.UWP.dll" />
     <file src="bin\Release\Kulman.UWP.pdb" target="lib\uap10.0\Kulman.UWP.pdb" />
+    <file src="bin\Release\Kulman.UWP.pri" target="lib\uap10.0\Kulman.UWP.pri" />
   </files>
 </package>
