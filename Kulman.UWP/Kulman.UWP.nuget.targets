@@ -4,6 +4,6 @@
     <NuGetPackageRoot>$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
   </PropertyGroup>
   <ImportGroup>
-    <Import Project="$(NuGetPackageRoot)\NuSpec.ReferenceGenerator\1.4.0\build\dotnet\NuSpec.ReferenceGenerator.targets" Condition="Exists('$(NuGetPackageRoot)\NuSpec.ReferenceGenerator\1.4.0\build\dotnet\NuSpec.ReferenceGenerator.targets')" />
+    <Import Project="$(NuGetPackageRoot)\NuSpec.ReferenceGenerator\1.4.2\build\dotnet\NuSpec.ReferenceGenerator.targets" Condition="Exists('$(NuGetPackageRoot)\NuSpec.ReferenceGenerator\1.4.2\build\dotnet\NuSpec.ReferenceGenerator.targets')" />
   </ImportGroup>
 </Project>

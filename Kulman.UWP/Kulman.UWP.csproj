@@ -117,6 +117,7 @@
     <Compile Include="Code\Extensions.cs" />
     <Compile Include="Code\Info.cs" />
     <Compile Include="Code\StringIOExtensions.cs" />
+    <Compile Include="Controls\AlternatingRowListView.cs" />
     <Compile Include="Converters\Abstract\BaseConverter.cs" />
     <Compile Include="Converters\Abstract\BaseVisibilityConverter.cs" />
     <Compile Include="Converters\BooleanNegateConverter.cs" />
