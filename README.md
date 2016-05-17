@@ -7,7 +7,7 @@ Collection of utilities and services for UWP apps. For Windows Phone 8.1 XAML, u
 
 ## Installation
 
-[![NuGet version](http://img.shields.io/nuget/v/Kulman.UWP.svg?style=flat)](https://nuget.org/packages/Kulman.UWP)  [![NuGet downloads](http://img.shields.io/nuget/dt/Kulman.UWP.svg?style=flat)](https://nuget.org/packages/Kulman.UWP)
+[![NuGet version](http://img.shields.io/nuget/v/Kulman.UWP.svg?style=flat)](https://nuget.org/packages/Kulman.UWP)
 
     PM> Install-Package Kulman.UWP
 
